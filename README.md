@@ -1,16 +1,13 @@
-### Hi there 👋
+# 👋 Eeei! Sóc en Gabi
 
-<!--
-**gfrancov/gfrancov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Em dic Gabriel, però tothom em diu Gabi, i sóc un badaloní administrador de sistemes. Sempre em va cridar el món de la informàtica, quan vaig tenir el meu primer portàtil em dedicava a fer F12 per inspeccionar i jugar amb les pàgines web i això m'ha portat fins aquí.
 
-Here are some ideas to get you started:
+- 📚 Sóc estudiant a l'Institut [La Pineda](http://inslapineda.cat).
+- 🔧 En pràctiques a [Áralos](https://www.aralos.com).
+- 🌱 Interessat en desenvolupament web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📥 Vols contactar amb mi?
+
+- Pots fer-ho des del meu lloc web [gabrielfranco.me](https://gabrielfranco.me/).
+- A través del meu correu electrònic jo@gabrielfranco.me.
+- També a través del meu [twitter](https://twitter.com/gabiCaotico) o discord `gabiCaotico#0001`.
