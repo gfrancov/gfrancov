@@ -3,7 +3,7 @@
 Em dic Gabriel, però tothom em diu Gabi, i sóc un badaloní administrador de sistemes. Sempre em va cridar el món de la informàtica, quan vaig tenir el meu primer portàtil em dedicava a fer F12 per inspeccionar i jugar amb les pàgines web i això m'ha portat fins aquí.
 
 - 📚 Sóc estudiant a l'Institut [La Pineda](http://inslapineda.cat).
-- 🔧 En pràctiques a [Áralos](https://www.aralos.com).
+- 🔧 De pràctiques a [BitGenoma](https://bitgenoma.com/).
 - 🌱 Interessat en desenvolupament web.
 
 ## 📥 Vols contactar amb mi?
