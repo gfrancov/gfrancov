@@ -1,5 +1,5 @@
 <h1 align="center">
-👋 Buenasss! Soy <a href="https://gabi.work/" target="_blank">Gabi</a>! 
+👋 ¡Buenasss! Soy <a href="https://gabi.work/" target="_blank">Gabi</a>
 </h1>
 
 <h3 align="center">
