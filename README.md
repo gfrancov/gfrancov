@@ -1,13 +1,23 @@
-# 👋 Eeei! Sóc en Gabi
+<h1 align="center">
+👋 Buenasss! Soy <a href="https://gabi.work/" target="_blank">Gabi</a>! 
+</h1>
 
-Em dic Gabriel, però tothom em diu Gabi, i sóc un badaloní administrador de sistemes. Sempre em va cridar el món de la informàtica, quan vaig tenir el meu primer portàtil em dedicava a fer F12 per inspeccionar i jugar amb les pàgines web i això m'ha portat fins aquí.
+<h3 align="center">
+Soy Administrador de Sistemas ⚙️, y en ocasiones Desarrollador Web 💻.
+</h3>
 
-- 📚 Sóc estudiant a l'Institut [La Pineda](http://inslapineda.cat).
-- 🔧 De pràctiques a [BitGenoma](https://bitgenoma.com/).
-- 🌱 Interessat en desenvolupament web.
+Especializado en la administración de sistemas: redes y ciberseguridad, me gustan los servidores y los cables. En ocasiones, cuando me apetece, desarrollo aplicaciones web.
 
-## 📥 Vols contactar amb mi?
+## 📚 Formación
+- CFGM en Sistemas Microinformáticos y Redes · [Institut La Pineda](http://inslapineda.cat)
+- CFGS en Administración de Sistemas Informáticos en Red · [Institut La Pineda](http://inslapineda.cat)
+- CFGS en Desarrollo de Aplicaciones Web · [Institut La Pineda](http://inslapineda.cat)
+- (Pendiente) FP Master en Ciberseguridad en Entornos de Tecnologías de la Información · [Institut Tecnològic Barcelona](https://www.itb.cat/)
 
-- Pots fer-ho des del meu lloc web [gabrielfranco.me](https://gabrielfranco.me/).
-- A través del meu correu electrònic jo@gabrielfranco.me.
-- També a través del meu [twitter](https://twitter.com/gabiCaotico) o discord `gabiCaotico#0001`.
+## 📊 Tecnologías que estoy aprendiendo
+- 📲 Angular Framework
+
+## 📥 ¿Quieres contactar conmigo?
+- A través de mi correo electrónico `jo@gabrielfranco.me`.
+- Puedes también contactar por mi discord `gabiCaotico#5103`.
+- En mi sitio web [https://gabi.work/](https://gabi.work//) tienes diferentes maneras de hacerlo.
