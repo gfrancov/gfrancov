@@ -12,7 +12,6 @@ Especializado en la administración de sistemas: redes y ciberseguridad, me gust
 - CFGM en Sistemas Microinformáticos y Redes · [Institut La Pineda](http://inslapineda.cat)
 - CFGS en Administración de Sistemas Informáticos en Red · [Institut La Pineda](http://inslapineda.cat)
 - CFGS en Desarrollo de Aplicaciones Web · [Institut La Pineda](http://inslapineda.cat)
-- (Pendiente) FP Master en Ciberseguridad en Entornos de Tecnologías de la Información · [Institut Tecnològic Barcelona](https://www.itb.cat/)
 
 ## 📊 Tecnologías que estoy aprendiendo
 - 📲 Angular Framework
