@@ -18,5 +18,5 @@ Especializado en la administración de sistemas: redes y ciberseguridad, me gust
 
 ## 📥 ¿Quieres contactar conmigo?
 - A través de mi correo electrónico `jo@gabrielfranco.me`.
-- Puedes también contactar por mi discord `gabiCaotico#5103`.
+- Puedes también contactar por mi discord `gabiCaotico#0001`.
 - En mi sitio web [https://gabi.work/](https://gabi.work//) tienes diferentes maneras de hacerlo.
