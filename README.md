@@ -15,10 +15,10 @@ Especializado en la administración de sistemas: redes y ciberseguridad, me gust
 - Ingeniería Informática (cursando) · [Universitat Oberta de Catalunya](https://www.uoc.edu/)
 
 ## 📲 ¿En qué estoy trabajando?
-- Técnico de Telecomunicaciones · [Generalitat de Catalunya - Departament d'Interior](https://interior.gencat.cat/ca/inici/index.html)
+- Técnico de Telecomunicaciones · [Generalitat de Catalunya - Departament d'Interior](https://interior.gencat.cat/ca/inici/index.html)<br/>
 Desarrollo de proyectos tecnológicos de Subdirecció General, mejora de procesos de explotación de estadísticas y elaboración de análisis técnicos para hacer más eficientes los procedimientos de recogida de información.
 
-- CEO · [Espai Nebula](https://nebula.cat/)
+- CEO · [Espai Nebula](https://nebula.cat/)<br/>
 Newsletter de Telecomunicaciones y Tecnologías de la Información, escribiendo artículos sobre todo lo relacionado con el mundo de las tecnologías, desarrollo de diferentes proyectos como Freelance de páginas web y administración de servidores.
 
 ## 📥 ¿Quieres contactar conmigo?
