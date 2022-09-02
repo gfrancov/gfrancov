@@ -20,7 +20,7 @@ Especializado en la administración de sistemas: redes y ciberseguridad, me gust
 Desarrollo de proyectos tecnológicos de Subdirecció General, mejora de procesos de explotación de estadísticas y elaboración de análisis técnicos para hacer más eficientes los procedimientos de recogida de información.
 
 - Redactor y fundador · [Cableando](https://cableando.net/)<br/>
-Blog y newsletter de Telecomunicaciones y Tecnologías de la Información, escribiendo artículos sobre todo lo relacionado con el mundo de las tecnologías, desarrollo de diferentes proyectos como Freelance de páginas web y administración de servidores.
+Comunidad y blog de sobre informática para jóvenes: sistemas, desarrollo, telecomunicaciones y toda la actualidad tecnológica. Recursos y herramientas para el desarrollo de proyectos tecnológicos y listados de formaciones gratuitas a tu alcance.
 
 ## 📥 ¿Quieres contactar conmigo?
 - A través de mi correo electrónico `jo@gabrielfranco.me`.
